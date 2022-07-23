@@ -20,7 +20,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="otp"><b>Password</b></label>
+    <label for="otp"><b>OTP</b></label>
     <input type="number" placeholder="Enter otp" name="otp" id="otp" required>
     <br>
 
