@@ -38,4 +38,5 @@
    <h1> Thankyou, Happy Learning </h1>
    <h1> Thanks fo registering</h1>
    <h1> Thanks again</h1>
+   <h1> again thank u </h1>
 </form>
